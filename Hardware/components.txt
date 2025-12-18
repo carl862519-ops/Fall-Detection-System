@@ -1,1 +1,14 @@
+=== FALL DETECTION SYSTEM - COMPONENTS LIST ===
 
+1. Arduino Uno R3 (or compatible)
+2. Tilt Switch/Mercury Switch
+3. Active Buzzer
+4. RGB LED (or separate Red + Green LEDs)
+5. Resistors: 2x 220Ω, 1x 10kΩ
+6. Breadboard
+7. Jumper wires
+8. USB cable for power
+
+Total Cost: ~$15 USD
+Source: Local electronic shops in Mozambique
+Purpose: Affordable fall detection for elderly care
