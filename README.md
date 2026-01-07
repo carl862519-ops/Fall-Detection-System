@@ -125,8 +125,7 @@ Fall-Detection-System/
 
 ## 👤 Author
 
-**Name**: Edna Raquel Carlitos.
-**Background**: [Your field of study]  
+**Name**: Edna Raquel Carlitos.  
 **Location**: Mozambique  
 **Email**: carl862519@gmail.com.
 
