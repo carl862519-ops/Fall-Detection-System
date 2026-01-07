@@ -1,6 +1,6 @@
 # 🏥 Fall Detection System for Elderly Care
 
-**Author**: [Your Name]  
+**Author**: Edna Raquel Carlitos.
 **Country**: Mozambique  
 **Field**: Biomedical Engineering / Electronics  
 **Year**: 2024  
@@ -125,11 +125,10 @@ Fall-Detection-System/
 
 ## 👤 Author
 
-**Name**: [Your Name]  
+**Name**: Edna Raquel Carlitos.
 **Background**: [Your field of study]  
 **Location**: Mozambique  
-**Email**: [Your email]  
-**GitHub**: [Your GitHub profile]
+**Email**: carl862519@gmail.com.
 
 ## 📚 Resources
 
